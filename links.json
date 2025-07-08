@@ -1,9 +1,30 @@
 [
-  { "label": "▫️ about me ▫️", "url": "https://quei.me/" },
-  { "label": "▫️ my label ▫️", "url": "https://what-is-next.vip/" },
-  { "label": "▫️ QUEI @ MTP POZNAŃ [DJ SET]▫️", "url": "https://www.youtube.com/watch?v=eBEtRPz3Z9Y" },
-  { "label": "▫️ open your eyes (with LXM and Jasq) ▫️", "url": "https://mugo.lnk.to/openyoureyes/" },
-  { "label": "▫️ ig ▫️", "url": "https://www.instagram.com/quei_music/" },
-  { "label": "▫️ yt ▫️", "url": "https://youtube.com/@quei_music" },
-  { "label": "▫️ sc ▫️", "url": "https://soundcloud.com/quei_music" }
+  {
+    "label": "▫️ QUEI @ MTP POZNAŃ [DJ SET]▫️",
+    "url": "https://www.youtube.com/watch?v=eBEtRPz3Z9Y"
+  },
+  {
+    "label": "▫️ about me ▫️",
+    "url": "https://quei.me/"
+  },
+  {
+    "label": "▫️ my label ▫️",
+    "url": "https://what-is-next.vip/"
+  },
+  {
+    "label": "▫️ open your eyes (with LXM and Jasq) ▫️",
+    "url": "https://mugo.lnk.to/openyoureyes/"
+  },
+  {
+    "label": "▫️ ig ▫️",
+    "url": "https://www.instagram.com/quei_music/"
+  },
+  {
+    "label": "▫️ yt ▫️",
+    "url": "https://youtube.com/@quei_music"
+  },
+  {
+    "label": "▫️ sc ▫️",
+    "url": "https://soundcloud.com/quei_music"
+  }
 ]
