@@ -12,7 +12,7 @@
     "url": "https://quei.lol/"
   },
   {
-    "label": "▫️ my label ▫️",
+    "label": "▫️ my brand▫️",
     "url": "https://what-is-next.vip/"
   },
   {
@@ -26,5 +26,9 @@
   {
     "label": "▫️ sc ▫️",
     "url": "https://soundcloud.com/quei_music"
+  },
+  {
+    "label": "▫️business mail▫️",
+    "url": "mailto:quei@what-is-next.vip"
   }
 ]
